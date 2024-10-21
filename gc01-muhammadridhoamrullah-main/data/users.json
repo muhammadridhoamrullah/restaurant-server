@@ -1,0 +1,10 @@
+[
+    {
+    "username": "Admin",
+    "email": "admin@mail.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": "08126772335",
+    "address": "Jalan Pemuda" 
+    }
+]

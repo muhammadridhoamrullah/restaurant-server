@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Ayam Gulai",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://i.ytimg.com/vi/qSUb_JIQGW0/maxresdefault.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 1",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 2",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 3",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 4",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 5",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 6",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 7",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 8",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 9",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 10",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 11",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 12",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 13",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 14",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 15",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 16",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 17",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 18",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Ayam Balado 19",
+    "description": "Ayam dikasih gulai",
+    "price": 15000,
+    "imgUrl": "https://asset.kompas.com/crops/puSCmWekgKRyE5cRP8IWHhIgTsU=/0x0:1000x667/750x500/data/photo/2023/02/22/63f567b4ab9d0.jpeg",
+    "categoryId": 2,
+    "authorId": 1
+  }
+]
